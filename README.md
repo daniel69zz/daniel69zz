@@ -103,5 +103,20 @@ I enjoy building scalable solutions with real-world impact and continuously impr
 
 ---
 
+## Certifications
+
+<a href="https://www.credly.com/earner/earned/badge/815c7103-94d1-4ba4-9dfb-80969a97e52b" target="_blank">
+  <img 
+    src="https://images.credly.com/size/340x340/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" 
+    alt="AWS Certified Cloud Practitioner" 
+    width="120"
+  />
+</a>
+
+**Network Technician Career Path**  
+Cisco Networking Academy  
+
+---
+
 ## Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
