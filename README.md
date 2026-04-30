@@ -116,6 +116,17 @@ I enjoy building scalable solutions with real-world impact and continuously impr
 **Network Technician Career Path**  
 Cisco Networking Academy  
 
+<a href="https://www.credly.com/badges/abcaec50-2e6a-415c-88d4-fd052aa85c30/public_url" target="_blank">
+  <img 
+    src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" 
+    alt="AWS Certified Cloud Practitioner" 
+    width="120"
+  />
+</a>
+
+**AWS Cloud Practitioner**  
+Amazon Web Services Training and Certification
+
 ---
 
 ## Dev Quote
