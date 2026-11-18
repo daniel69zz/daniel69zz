@@ -165,15 +165,6 @@ Web and AI solution for evidence management and legal assistance in incident cas
 
 ---
 
-## Current Focus
-
-- Taking the Hipermaxi AI assistant to production with NexoLab
-- Backend engineering and scalable architectures
-- Advanced SQL and database design
-- Cloud computing and AI-powered applications
-
----
-
 ## Certifications
 
 <a href="https://www.credly.com/badges/abcaec50-2e6a-415c-88d4-fd052aa85c30/public_url" target="_blank">
