@@ -25,9 +25,16 @@ I build backend systems, databases and AI-powered solutions, and I like taking p
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-daniel-rojas-caceres-132897274/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luisdanielrojascaceres@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=googlechrome&logoColor=white)](https://daniel69zz-dev.bell7738.com/)
+<div align="center">
+
+<a href="https://www.linkedin.com/in/luis-daniel-rojas-caceres-132897274/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" title="LinkedIn"/></a>
+<a href="mailto:luisdanielrojascaceres@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" title="Email: luisdanielrojascaceres@gmail.com"/></a>
+<a href="https://daniel69zz-dev.bell7738.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=chrome&theme=dark" alt="Portfolio" title="Portfolio"/></a>
+
+🟢 **Open to work** — backend & AI roles, internships and freelance projects.  
+💬 Also happy to join **hackathon teams**. Feel free to reach out!
+
+</div>
 
 ---
 
