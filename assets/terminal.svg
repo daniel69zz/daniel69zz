@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="504" viewBox="0 0 760 504" role="img" aria-labelledby="t">
+<title id="t">daniel69zz@github: fastfetch</title>
+<defs>
+  <linearGradient id="logo" x1="0" y1="86" x2="0" y2="262" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#bb9af7"/><stop offset="1" stop-color="#7aa2f7"/>
+  </linearGradient>
+</defs>
+<style>
+  text { font: 14px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; white-space: pre; }
+  .fade { opacity: 0; animation: fade .25s ease-out forwards; }
+  .cover { animation: type 0.81s steps(9) 0.6s forwards; }
+  .cursor1 { animation: type 0.81s steps(9) 0.6s forwards, hide .01s 1.61s forwards; }
+  .blink { animation: blink 1s step-end infinite; }
+  @keyframes fade { from { opacity: 0; transform: translateY(3px); } to { opacity: 1; transform: none; } }
+  @keyframes type { to { transform: translateX(75.6px); } }
+  @keyframes hide { to { opacity: 0; } }
+  @keyframes blink { 50% { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) {
+    .fade { animation: none; opacity: 1; }
+    .cover, .cursor1 { display: none; }
+  }
+</style>
+<rect x="0.5" y="0.5" width="759" height="503" rx="10" fill="#1a1b26" stroke="#2f334d"/>
+<circle cx="22" cy="18" r="6" fill="#ff5f57"/><circle cx="42" cy="18" r="6" fill="#febc2e"/><circle cx="62" cy="18" r="6" fill="#28c840"/>
+<text x="24" y="64" textLength="176.4" lengthAdjust="spacing"><tspan fill="#9ece6a">daniel69zz@github</tspan><tspan fill="#c0caf5">:</tspan><tspan fill="#7aa2f7">~</tspan><tspan fill="#c0caf5">$ </tspan></text>
+<text x="200.4" y="64" textLength="75.6" lengthAdjust="spacing"><tspan fill="#c0caf5">fastfetch</tspan></text>
+<rect class="cover" x="200.4" y="49" width="84.00000000000001" height="20" fill="#1a1b26"/>
+<rect class="cursor1" x="200.4" y="51" width="8.4" height="17" fill="#c0caf5"/>
+<g class="fade" style="animation-delay:1.710s" fill="url(#logo)"><rect x="88" y="86" width="48" height="8"/></g>
+<g class="fade" style="animation-delay:1.745s" fill="url(#logo)"><rect x="64" y="94" width="96" height="8"/></g>
+<g class="fade" style="animation-delay:1.780s" fill="url(#logo)"><rect x="56" y="102" width="112" height="8"/></g>
+<g class="fade" style="animation-delay:1.815s" fill="url(#logo)"><rect x="48" y="110" width="128" height="8"/></g>
+<g class="fade" style="animation-delay:1.850s" fill="url(#logo)"><rect x="40" y="118" width="32" height="8"/><rect x="80" y="118" width="64" height="8"/><rect x="152" y="118" width="32" height="8"/></g>
+<g class="fade" style="animation-delay:1.885s" fill="url(#logo)"><rect x="32" y="126" width="40" height="8"/><rect x="88" y="126" width="48" height="8"/><rect x="152" y="126" width="40" height="8"/></g>
+<g class="fade" style="animation-delay:1.920s" fill="url(#logo)"><rect x="32" y="134" width="32" height="8"/><rect x="160" y="134" width="32" height="8"/></g>
+<g class="fade" style="animation-delay:1.955s" fill="url(#logo)"><rect x="32" y="142" width="32" height="8"/><rect x="160" y="142" width="32" height="8"/></g>
+<g class="fade" style="animation-delay:1.990s" fill="url(#logo)"><rect x="24" y="150" width="40" height="8"/><rect x="160" y="150" width="40" height="8"/></g>
+<g class="fade" style="animation-delay:2.025s" fill="url(#logo)"><rect x="24" y="158" width="40" height="8"/><rect x="160" y="158" width="40" height="8"/></g>
+<g class="fade" style="animation-delay:2.060s" fill="url(#logo)"><rect x="24" y="166" width="40" height="8"/><rect x="160" y="166" width="40" height="8"/></g>
+<g class="fade" style="animation-delay:2.095s" fill="url(#logo)"><rect x="24" y="174" width="40" height="8"/><rect x="160" y="174" width="40" height="8"/></g>
+<g class="fade" style="animation-delay:2.130s" fill="url(#logo)"><rect x="24" y="182" width="40" height="8"/><rect x="160" y="182" width="40" height="8"/></g>
+<g class="fade" style="animation-delay:2.165s" fill="url(#logo)"><rect x="24" y="190" width="48" height="8"/><rect x="152" y="190" width="48" height="8"/></g>
+<g class="fade" style="animation-delay:2.200s" fill="url(#logo)"><rect x="32" y="198" width="56" height="8"/><rect x="136" y="198" width="56" height="8"/></g>
+<g class="fade" style="animation-delay:2.235s" fill="url(#logo)"><rect x="32" y="206" width="32" height="8"/><rect x="72" y="206" width="24" height="8"/><rect x="128" y="206" width="64" height="8"/></g>
+<g class="fade" style="animation-delay:2.270s" fill="url(#logo)"><rect x="32" y="214" width="32" height="8"/><rect x="128" y="214" width="64" height="8"/></g>
+<g class="fade" style="animation-delay:2.305s" fill="url(#logo)"><rect x="40" y="222" width="24" height="8"/><rect x="128" y="222" width="56" height="8"/></g>
+<g class="fade" style="animation-delay:2.340s" fill="url(#logo)"><rect x="48" y="230" width="48" height="8"/><rect x="128" y="230" width="48" height="8"/></g>
+<g class="fade" style="animation-delay:2.375s" fill="url(#logo)"><rect x="56" y="238" width="40" height="8"/><rect x="128" y="238" width="40" height="8"/></g>
+<g class="fade" style="animation-delay:2.410s" fill="url(#logo)"><rect x="64" y="246" width="32" height="8"/><rect x="128" y="246" width="32" height="8"/></g>
+<g class="fade" style="animation-delay:2.445s" fill="url(#logo)"><rect x="88" y="254" width="8" height="8"/><rect x="128" y="254" width="8" height="8"/></g>
+<text x="234" y="96" textLength="142.8" lengthAdjust="spacing" class="fade" style="animation-delay:1.860s"><tspan fill="#7aa2f7">daniel69zz</tspan><tspan fill="#c0caf5">@</tspan><tspan fill="#7aa2f7">github</tspan></text>
+<text x="234" y="116" textLength="142.8" lengthAdjust="spacing" class="fade" style="animation-delay:1.970s"><tspan fill="#565f89">-----------------</tspan></text>
+<text x="234" y="136" textLength="151.2" lengthAdjust="spacing" class="fade" style="animation-delay:2.080s"><tspan fill="#bb9af7">OS</tspan><tspan fill="#c0caf5">: GitHub Profile</tspan></text>
+<text x="234" y="156" textLength="226.8" lengthAdjust="spacing" class="fade" style="animation-delay:2.190s"><tspan fill="#bb9af7">Host</tspan><tspan fill="#c0caf5">: github.com/daniel69zz</tspan></text>
+<text x="234" y="176" textLength="294.0" lengthAdjust="spacing" class="fade" style="animation-delay:2.300s"><tspan fill="#bb9af7">Kernel</tspan><tspan fill="#c0caf5">: Systems Engineering Student</tspan></text>
+<text x="234" y="196" textLength="210.0" lengthAdjust="spacing" class="fade" style="animation-delay:2.410s"><tspan fill="#bb9af7">Uptime</tspan><tspan fill="#c0caf5">: 2 years, 7 months</tspan></text>
+<text x="234" y="216" textLength="226.8" lengthAdjust="spacing" class="fade" style="animation-delay:2.520s"><tspan fill="#bb9af7">Packages</tspan><tspan fill="#c0caf5">: 33 repos, 0 stars</tspan></text>
+<text x="234" y="236" textLength="84.0" lengthAdjust="spacing" class="fade" style="animation-delay:2.630s"><tspan fill="#bb9af7">Shell</tspan><tspan fill="#c0caf5">: zsh</tspan></text>
+<text x="234" y="256" textLength="260.4" lengthAdjust="spacing" class="fade" style="animation-delay:2.740s"><tspan fill="#bb9af7">Name</tspan><tspan fill="#c0caf5">: Luis Daniel Rojas Caceres</tspan></text>
+<text x="234" y="276" textLength="193.2" lengthAdjust="spacing" class="fade" style="animation-delay:2.850s"><tspan fill="#bb9af7">Role</tspan><tspan fill="#c0caf5">: Backend Developer</tspan></text>
+<text x="234" y="296" textLength="428.4" lengthAdjust="spacing" class="fade" style="animation-delay:2.960s"><tspan fill="#bb9af7">Languages</tspan><tspan fill="#c0caf5">: TypeScript, JavaScript, Python, C++, SQL</tspan></text>
+<text x="234" y="316" textLength="394.8" lengthAdjust="spacing" class="fade" style="animation-delay:3.070s"><tspan fill="#bb9af7">Frameworks</tspan><tspan fill="#c0caf5">: NestJS, Node.js, React, Spring Boot</tspan></text>
+<text x="234" y="336" textLength="336.0" lengthAdjust="spacing" class="fade" style="animation-delay:3.180s"><tspan fill="#bb9af7">Databases</tspan><tspan fill="#c0caf5">: PostgreSQL, MySQL, SQL Server</tspan></text>
+<text x="234" y="356" textLength="344.4" lengthAdjust="spacing" class="fade" style="animation-delay:3.290s"><tspan fill="#bb9af7">Cloud</tspan><tspan fill="#c0caf5">: AWS, Oracle Cloud, Docker, Stellar</tspan></text>
+<text x="234" y="376" textLength="352.8" lengthAdjust="spacing" class="fade" style="animation-delay:3.400s"><tspan fill="#bb9af7">Awards</tspan><tspan fill="#c0caf5">: 1st InnovaHack 2026, Stellar Elite</tspan></text>
+<text x="234" y="396" textLength="302.4" lengthAdjust="spacing" class="fade" style="animation-delay:3.510s"><tspan fill="#bb9af7">Certs</tspan><tspan fill="#c0caf5">: AWS Cloud Practitioner, Cisco</tspan></text>
+<text x="234" y="416" textLength="302.4" lengthAdjust="spacing" class="fade" style="animation-delay:3.620s"><tspan fill="#bb9af7">Social</tspan><tspan fill="#c0caf5">: 1 follower, 90 pull requests</tspan></text>
+<g class="fade" style="animation-delay:3.730s"><rect x="234" y="430" width="25.200000000000003" height="18" fill="#15161e"/><rect x="259.2" y="430" width="25.200000000000003" height="18" fill="#f7768e"/><rect x="284.4" y="430" width="25.200000000000003" height="18" fill="#9ece6a"/><rect x="309.6" y="430" width="25.200000000000003" height="18" fill="#e0af68"/><rect x="334.8" y="430" width="25.200000000000003" height="18" fill="#7aa2f7"/><rect x="360" y="430" width="25.200000000000003" height="18" fill="#bb9af7"/><rect x="385.20000000000005" y="430" width="25.200000000000003" height="18" fill="#7dcfff"/><rect x="410.4" y="430" width="25.200000000000003" height="18" fill="#a9b1d6"/></g>
+<g class="fade" style="animation-delay:4.030s"><text x="24" y="480" textLength="176.4" lengthAdjust="spacing"><tspan fill="#9ece6a">daniel69zz@github</tspan><tspan fill="#c0caf5">:</tspan><tspan fill="#7aa2f7">~</tspan><tspan fill="#c0caf5">$ </tspan></text><rect class="blink" style="animation-delay:4.030s" x="200.4" y="467" width="8.4" height="17" fill="#c0caf5"/></g>
+</svg>

@@ -1,12 +1,24 @@
 # Hi there, I'm Luis Daniel Rojas Caceres
 
-## About Me
-Systems Engineering student focused on backend engineering, databases, AI, and software architecture.  
-I enjoy building scalable solutions with real-world impact and continuously improving my skills through projects and hands-on learning.
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="assets/terminal.svg" alt="fastfetch de daniel69zz" width="100%"/>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="assets/haruhi-framed.gif" alt="Haruhi Suzumiya" width="100%"/>
+    </td>
+  </tr>
+</table>
 
-- Backend-oriented developer
-- Interested in AI, databases, and software architecture
-- Focused on building useful, scalable, and maintainable systems
+## About Me
+Systems Engineering student at **Universidad Católica Boliviana San Pablo** (also studying Computer Science at **UMSA**), based in La Paz, Bolivia.
+I build backend systems, databases and AI-powered solutions, and I like taking projects from a hackathon prototype to a real implementation.
+
+- 🥇 **1st place overall** at InnovaHack 2026 (CAINCO) with team NexoLab, now implementing our AI assistant for **Hipermaxi**
+- 🌟 **Stellar Elite winner** with WorkVille, selected among the top 50 developers in Bolivia
+- ☁️ AWS Certified Cloud Practitioner
+- 🗣️ Spanish (native) · English (intermediate)
 
 ---
 
@@ -17,85 +29,103 @@ I enjoy building scalable solutions with real-world impact and continuously impr
 
 ---
 
+## Achievements
+- 🥇 **InnovaHack 2026 (CAINCO)** — 1st place overall and 1st place in the Business Challenge with team NexoLab. Hipermaxi then contacted us to implement the solution officially.
+- 🌟 **Stellar Elite** — Winner with WorkVille, selected among the top 50 developers in Bolivia.
+- 🥈 **IPAS Bolivia Hackathon 2025** — 2nd place with an evidence management and legal assistance app, later requested by IPAS Bolivia for development under contract.
+- 🥉 **Buildathon, Avalanche challenge** — 3rd place with SeedFi.
+- 🥈 **FUNTEC – UCB** — 2nd place at the university technology fair.
+
+---
+
+## Experience
+
+**AI Development & Implementation — Hipermaxi** · *Team NexoLab · 2026 – Present*
+Building an AI assistant embedded in Hipermaxi's supplier portal, with chat and voice interaction, contextual guidance and process automation. It started as our winning InnovaHack 2026 project and is now being officially implemented.
+
+**Software Developer — IPAS Bolivia Project** · *2025*
+Web and AI solution for evidence management and legal assistance in incident cases. 2nd place at the IPAS Bolivia Hackathon; IPAS later requested the software for contracted development.
+
+**Computer Lab Assistant — Universidad Católica Boliviana San Pablo** · *2025*
+
+---
+
 ## Featured Projects
-- **[Sentinel](TODO-url-repo-sentinel)** — Safety-focused mobile application with emergency alerts, evidence capture, and contextual legal guidance.
-- **[Sign Language Recognition](TODO-url-repo-sign-language)** — CNN-based computer vision project for sign language classification using TensorFlow.
-- **Backend API Projects** — RESTful APIs built with Node.js, NestJS, Docker, and SQL/NoSQL databases.
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| **[WorkVille](https://myworkville.com)** · [repo](https://github.com/ozioziel/Cryptoville) | Freelance marketplace as an interactive 2D village. USDC payments through Soroban escrow contracts (direct, guaranteed and 2–5 milestone payments), arbitrated disputes, KYC and reputation. **Stellar Elite winner.** | Stellar, Soroban, TypeScript |
+| **Hipermaxi AI Assistant** · *private* | Embeddable chat and voice assistant for Hipermaxi's supplier portal. **1st place InnovaHack 2026**, currently in production rollout. | AI, RAG, APIs, Web |
+| **[MAPIA](https://github.com/daniel69zz/mapia_backend)** | Smart incident map: community reports with geolocation and reliability mechanisms to help people avoid problem areas. | React, NestJS, TypeScript |
+| **UCB Sports Hub** · *private* | Sports management system for UCB's Sports Department: users, roles, teams, tournaments, bookings and reports. I designed the unified relational database used by all microservices. | NestJS, React, PostgreSQL, Docker |
+| **[Sentinel](https://github.com/daniel69zz/RAG_HACKATON_SENTINEL)** | Evidence management and legal assistance app with AI-assisted incident analysis. **2nd place IPAS Bolivia Hackathon 2025.** | Python, RAG, Flutter |
+| **[SeedFi](https://github.com/daniel69zz/seedfi)** | On-chain real estate financing. **3rd place, Avalanche challenge.** | TypeScript, Solidity |
+| **[Sign Language Recognition](https://github.com/daniel69zz/sign_language_recognition_v2)** | Machine learning model for sign language gesture recognition. | TensorFlow, OpenCV, MediaPipe |
+| **[Coffix](https://coffix-frontend.vercel.app)** · [repo](https://github.com/daniel69zz/COFFIX_FRONTEND) | Transaction processing system for a coffee shop: orders, products and daily operations. | JavaScript, Java |
+| **[Mini E-commerce](https://github.com/daniel69zz/mini_ecommerce)** | E-commerce system with product and user management over a REST API. | Node.js, Vue |
 
 ---
 
 ## Tech Stack
 
 ### Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp,dart,bash&theme=dark" alt="Languages"/></a>
+</p>
 
 ### Backend & Frameworks
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,fastapi&theme=dark" alt="Backend"/></a>
+</p>
 
 ### Frontend & Mobile
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,vue,vite,tailwind,flutter&theme=dark" alt="Frontend"/></a>
+</p>
 
 ### Databases
-![PostgresSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,mongodb,dynamodb&theme=dark" alt="Databases"/></a>
+</p>
+
+### AI & Machine Learning
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="AI and ML"/></a>
+</p>
 
 ### DevOps & Cloud
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,githubactions,jenkins,vercel,netlify&theme=dark" alt="DevOps and Cloud"/></a>
+</p>
 
 ### Tools & Workflow
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,postman,npm,yarn&theme=dark" alt="Tools"/></a>
+</p>
+
+### Also working with
+![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=flat-square&logo=stellar&logoColor=white)
+![Soroban](https://img.shields.io/badge/Soroban_smart_contracts-000000?style=flat-square&logo=stellar&logoColor=white)
+![USDC](https://img.shields.io/badge/USDC_payments-2775CA?style=flat-square&logo=circle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 ---
 
 ## Current Focus
-- Backend development
-- Database design and optimization
-- AI-powered applications
-- Software architecture and scalable systems
+- Taking the Hipermaxi AI assistant to production with NexoLab
+- Backend engineering and scalable architectures
+- Advanced SQL and database design
+- Cloud computing and AI-powered applications
 
 ---
 
 ## Certifications
-
-<a href="https://www.credly.com/badges/815c7103-94d1-4ba4-9dfb-80969a97e52b/public_url" target="_blank">
-  <img 
-    src="https://images.credly.com/size/340x340/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" 
-    alt="Cisco Network Technician Career Path" 
-    width="120"
-  />
-</a>
-
-**Network Technician Career Path**  
-Cisco Networking Academy  
 
 <a href="https://www.credly.com/badges/abcaec50-2e6a-415c-88d4-fd052aa85c30/public_url" target="_blank">
   <img 
@@ -104,11 +134,13 @@ Cisco Networking Academy
     width="120"
   />
 </a>
+<a href="https://www.credly.com/badges/815c7103-94d1-4ba4-9dfb-80969a97e52b/public_url" target="_blank">
+  <img 
+    src="https://images.credly.com/size/340x340/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" 
+    alt="Cisco Network Technician Career Path" 
+    width="120"
+  />
+</a>
 
-**AWS Cloud Practitioner**  
-Amazon Web Services Training and Certification
-
----
-
-## Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+**AWS Certified Cloud Practitioner** — Amazon Web Services  
+**Network Technician Career Path** — Cisco Networking Academy
