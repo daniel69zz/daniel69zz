@@ -167,20 +167,25 @@ Web and AI solution for evidence management and legal assistance in incident cas
 
 ## Certifications
 
-<a href="https://www.credly.com/badges/abcaec50-2e6a-415c-88d4-fd052aa85c30/public_url" target="_blank">
-  <img 
-    src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" 
-    alt="AWS Certified Cloud Practitioner" 
-    width="120"
-  />
-</a>
-<a href="https://www.credly.com/badges/815c7103-94d1-4ba4-9dfb-80969a97e52b/public_url" target="_blank">
-  <img 
-    src="https://images.credly.com/size/340x340/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" 
-    alt="Cisco Network Technician Career Path" 
-    width="120"
-  />
-</a>
-
-**AWS Certified Cloud Practitioner** — Amazon Web Services  
-**Network Technician Career Path** — Cisco Networking Academy
+<table align="center">
+  <tr>
+    <td align="center" width="220">
+      <a href="https://www.credly.com/badges/abcaec50-2e6a-415c-88d4-fd052aa85c30/public_url">
+        <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" title="Verify on Credly" width="120"/>
+      </a>
+      <br/>
+      <b>AWS Certified Cloud Practitioner</b>
+      <br/>
+      <sub>Amazon Web Services</sub>
+    </td>
+    <td align="center" width="220">
+      <a href="https://www.credly.com/badges/815c7103-94d1-4ba4-9dfb-80969a97e52b/public_url">
+        <img src="https://images.credly.com/size/340x340/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" alt="Cisco Network Technician Career Path" title="Verify on Credly" width="120"/>
+      </a>
+      <br/>
+      <b>Network Technician Career Path</b>
+      <br/>
+      <sub>Cisco Networking Academy</sub>
+    </td>
+  </tr>
+</table>
